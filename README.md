@@ -590,11 +590,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Hash table
     - [ ] Videos:
-        - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-        - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
-        - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
+        - [√] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+        - [√] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [√] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [√] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+        - [√] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
         - [ ] [(Advanced) Perfect hashing (video)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
 
     - [ ] Online Courses:
@@ -609,7 +609,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-    - [ ] implement with array using linear probing
+    - [√] implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
         - exists(key)
@@ -619,10 +619,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## More Knowledge
 
 - ### Binary search
-    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
-    - [ ] Implement:
+    - [√] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [√] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [√] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [√] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
@@ -630,15 +630,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
-        - [ ] Good intro:
+        - [√] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
-        - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [√] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
+        - [√] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [√] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](https://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
-        - [ ] [Bit Hacks (video)](https://www.youtube.com/watch?v=ZusiKXcz_ac)
+        - [√] [Bit Hacks (video)](https://www.youtube.com/watch?v=ZusiKXcz_ac)
     - [ ] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
